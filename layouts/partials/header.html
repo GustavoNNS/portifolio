@@ -1,5 +1,8 @@
-<header></header>
-    <h1>{{ .Site.Title}}</h1>
+<header>
+    <img src="{{ relURL "images/logo.png" }}" id="logo"> 
+    <h1 class="Cabeçalho">{{ .Site.Title}}</h1>
+</header>
+<body>
     <nav>
         <ul>
             <li><a href="{{ relURL "" }}">Home</a></li>
@@ -8,4 +11,4 @@
 
         </ul>
     </nav>
-</header>
+</body>

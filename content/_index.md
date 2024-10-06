@@ -1,7 +1,2 @@
-Este é o meu portfólio
-
-Neste site, você encontrará
-
-- Minha biografia
-- Meus projetos
-- Meu currículo
+Este é o meu portfólio fotográfico. Aqui estão as fotos tiradas ao longo dos últimos anos.  
+Aproveite!

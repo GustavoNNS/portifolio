@@ -6,21 +6,35 @@
     <description>Recent content in Guias on Portifólio fotográfico</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 11:16:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 11:40:04 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/guias/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DistFocal</title>
+      <title>Velocidade de disparo</title>
+      <link>http://localhost:1313/guias/velociddisparo/</link>
+      <pubDate>Mon, 23 Sep 2024 11:40:04 -0300</pubDate>
+      <guid>http://localhost:1313/guias/velociddisparo/</guid>
+      <description>&lt;h1 id=&#34;o-que-é-velocidade-de-disparo&#34;&gt;O que é Velocidade de Disparo?&lt;/h1&gt;&#xA;&lt;p&gt;A velocidade de disparo, também conhecida como tempo de exposição ou velocidade do obturador, determina o intervalo de tempo durante o qual a câmera captura a imagem após você pressionar o botão do obturador1. É crucial para congelar a ação em cenas dinâmicas, como esportes ou retratos de animais em movimento.&lt;/p&gt;&#xA;&lt;h1 id=&#34;impacto-da-velocidade-de-disparo-fotos-de-ação-e-fotografia-noturna&#34;&gt;Impacto da Velocidade de Disparo: Fotos de Ação e Fotografia Noturna&lt;/h1&gt;&#xA;&lt;p&gt;Usar uma velocidade rápida pode congelar o movimento, permitindo capturar detalhes que seriam invisíveis a olho nu. Por exemplo, em esportes, uma velocidade de disparo de 1/1000 pode capturar um jogador em pleno salto, enquanto uma velocidade mais lenta resultaria em um borrão.&#xA;Fotografia Noturna: Com pouca luz disponível, os fotógrafos frequentemente usam velocidades mais lentas para permitir que mais luz entre na câmera. No entanto, é essencial estabilizar a câmera com um tripé ou superfície estável para evitar imagens tremidas em exposições longas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exposição</title>
+      <link>http://localhost:1313/guias/exposicao/</link>
+      <pubDate>Mon, 23 Sep 2024 11:39:47 -0300</pubDate>
+      <guid>http://localhost:1313/guias/exposicao/</guid>
+      <description>&lt;h1 id=&#34;o-que-é-exposição&#34;&gt;O que é exposição?&lt;/h1&gt;&#xA;&lt;p&gt;A exposição fotográfica é o processo pelo qual o sensor da câmera é exposto à luz para capturar uma imagem. Basicamente, é o equilíbrio entre capturar luz suficiente para expor os detalhes, sem que a foto fique superexposta (muito clara) ou subexposta (muito escura)1. Imagine que o sensor da câmera é como uma esponja que absorve a luz: se você deixar a esponja exposta por muito tempo, ela ficará saturada; se não a expuser o suficiente, ela ficará subutilizada.&#xA;Além da abertura, a exposição envolve a velocidade do obturador e o ISO. A combinação correta desses três elementos garante que suas fotos estejam adequadamente expostas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Distância Focal</title>
       <link>http://localhost:1313/guias/distfocal/</link>
       <pubDate>Mon, 23 Sep 2024 11:16:02 -0300</pubDate>
       <guid>http://localhost:1313/guias/distfocal/</guid>
-      <description>&lt;p&gt;Falar sobre Distância Focal&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;o-que-é-distância-focal&#34;&gt;O que é distância focal&lt;/h1&gt;&#xA;&lt;p&gt;A distância focal (ou comprimento focal) é a medida, em milímetros, entre o ponto de convergência da luz (o centro óptico, localizado no meio da lente) e o sensor da câmera. Basicamente, é a distância que determina o quanto uma lente pode ampliar a imagem de um ponto distante em uma cena. Ela está diretamente relacionada à profundidade de campo e influencia a perspectiva e o campo de visão da foto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Abertura</title>
       <link>http://localhost:1313/guias/abertura/</link>
       <pubDate>Mon, 23 Sep 2024 11:15:54 -0300</pubDate>
       <guid>http://localhost:1313/guias/abertura/</guid>
-      <description>&lt;p&gt;Falar sobre Abertura do diafragma&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;o-que-é-a-abertura-do-diafragma&#34;&gt;O que é a abertura do diafragma?&lt;/h1&gt;&#xA;&lt;p&gt;O diafragma é um mecanismo na lente da câmera composto por lâminas que abrem e fecham, criando um orifício no centro. Esse orifício controla a quantidade de luz que atinge o sensor da câmera.&lt;/p&gt;&#xA;&lt;h1 id=&#34;como-funciona-a-graduação&#34;&gt;Como funciona a graduação?&lt;/h1&gt;&#xA;&lt;p&gt;A abertura é medida em números “f” (também conhecidos como F-stops). Essa escala foi projetada de forma que cada f-stop corresponda a uma situação em que o diafragma deixa entrar o dobro (ou metade) da luz do f-stop anterior.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
