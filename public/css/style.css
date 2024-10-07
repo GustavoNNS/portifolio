@@ -24,8 +24,6 @@ nav{
     justify-content: center;
     font-size: large; 
     border-radius: 15px;
-
-
 }
   main {
     font-size: large; 
@@ -60,4 +58,7 @@ nav{
   }
   a{
     color:#9e9f8e
+  }
+  #Lista{
+    color: #25311f;
   }
